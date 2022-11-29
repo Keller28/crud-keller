@@ -1,0 +1,107 @@
+body
+{
+    background: #4b4848;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.container{
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+
+.formulario2{
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+
+.crearficha{
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px;
+    text-align: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    
+}
+
+.botons{
+    width: 100%;
+  background: #b21fc5;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+  cursor: pointer;
+}
+.seleccion{
+  width: 30%;
+    background: #4b4848;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #b21fc5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+}
+.form-control {
+    width: 100%;
+    background: #24303c;
+    padding: 5px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #b21fc5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+  }
+  
+  .regisl p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+  
+  .regisl a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .regisl a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+
+  .regisl {
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+  }
+  
+  .regisl h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
